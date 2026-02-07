@@ -9,7 +9,7 @@ function App() {
   const containerstyle={
     minHeight:"100vh",
     padding:"20px",
-    backgroundcolor:theme === "light" ? "#222" :"#fff",
+    backgroundColor:theme === "light" ? "#222" :"#fff",
     color:theme === "dark" ? "#222": "#fff"
 
   }
